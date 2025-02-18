@@ -2,7 +2,7 @@
 
 A modern, responsive quiz application built with React and Tailwind CSS featuring a beautiful glassmorphism design.
 
-![Quiz Platform Screenshot](./screenshot.png)
+![Quiz Platform Screenshot](./public/screenshot.png)
 
 ## Features
 

@@ -42,7 +42,7 @@ A modern, responsive quiz application built with React and Tailwind CSS featurin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-platform.git
+   git clone https://github.com/Vaasu02/Quiz-Platform.git
    cd quiz-platform
    ```
 2. Install dependencies:
